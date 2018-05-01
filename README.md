@@ -1,2 +1,2 @@
 # gaussian_disturbition
-Pattern recognition hw1 - gaussian_disturbition
+Pattern recognition hw2 - gaussian_disturbition
